@@ -1,6 +1,7 @@
 Rencana kedua :
-- Belajar react
 - Belajar Bootspring
 - Belajar Flutter
   * Bikin App
 - Bikin startup
+ * Hallo
+ * Ojek
