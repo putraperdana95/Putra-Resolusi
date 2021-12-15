@@ -1,3 +1,5 @@
 Rencana kedua :
 - Belajar react
 - Belajar Bootspring
+- Belajar Flutter
+  * Bikin App
