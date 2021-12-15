@@ -3,5 +3,7 @@ Rencana kedua :
 - Belajar Flutter
   * Bikin App
 - Bikin startup
+- mengembangkan lebih lagi
  * Hallo
  * Ojek
+
