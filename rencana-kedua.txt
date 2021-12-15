@@ -3,3 +3,4 @@ Rencana kedua :
 - Belajar Bootspring
 - Belajar Flutter
   * Bikin App
+- Bikin startup
